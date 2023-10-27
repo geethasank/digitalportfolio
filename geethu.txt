@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geetha Parlour</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #fff;
+            margin: 10px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Geetha Parlour</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Services</a>
+        <a href="#">About Us</a>
+        <a href="#">Contact</a>
+    </nav>
+    <div class="container">
+        <h2>About Geetha Parlour</h2>
+        <p>Welcome to Geetha Parlour, your destination for beauty and wellness. We offer a range of services to enhance your natural beauty.</p>
+        <h2>Makeup Services</h2>
+        <ul>
+            <li>Wedding Makeup</li>
+            <li>Party Makeup</li>
+            <li>Bridal Makeup</li>
+            <li>Professional Photoshoot Makeup</li>
+        </ul>
+        <h2>Contact Us</h2>
+        <p>Address: 123 Beauty Street, Your City</p>
+        <p>Email: info@geethaparlour.com</p>
+        <p>Phone: (123) 456-7890</p>
+    </div>
+</body>
+</html>
